@@ -1,6 +1,4 @@
 # Assignment Task
-
-# Task : 11171103354%12=2
 Packet corruption.
 
 I was tasked to create a C++ program to read a network capture packet, then locate all IP packets and corrupt the IP packet field such as:
